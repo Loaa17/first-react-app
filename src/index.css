@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.card{
+   padding: 0px ;
+}
+.card:hover .plus{
+   top: 40%;
+}
